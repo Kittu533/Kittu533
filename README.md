@@ -1,19 +1,56 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ryobi Surya Atmaja</h1>
 
-<!--
-**Kittu533/Kittu533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer, UI Engineer
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=rimzzlabs&label=Profile%20views&color=0e75b6&style=flat" alt="rizkimcitraa" /> </p> -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Im interested with and pretty good at: 
+  - Web Technology
+  - UI Engineering
+  - Mobile Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrain&pause=1000&random=false&width=435&lines=Hi+Everyone+%F0%9F%91%8B%2C+I+am+Ryobi;Let's+be+good+friends.)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryobi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+<hr />
+
+<details>
+  <summary>GitHub Statistics</summary>
+  
+  <hr />
+  <p align="left">
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kittu533&show_icons=true&include_all_commits=true&custom_title=rimzzlabs+Stats+So+Far" alt="rizkimcitraa" />
+  </p>
+
+  <p align="left">
+    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittu533&layout=compact&hide=php,scss,shell&langs_count=10" />
+  </p>
+</details>
+
+<details>
+  <summary>GitHub Strikes</summary>
+  
+  <hr />
+  <p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittu533" alt="rimzzlabs stats" />
+  </p>
+</details>
+
+<details>
+  <summary>
+    Holopin Badges
+  </summary>
+  
+  <hr />
+  
+
+</details>
+
+<details>
+  <summary>Wakatime Statistics</summary>
+  
+- Languages overall
+  <hr />
+  
+  <p align="left">
+    <img src="https://wakatime.com/share/@f4650ff2-8f6e-4478-b596-3bed72c0f794/40d4c156-99c9-42a3-b674-7f9c93a01f7e.svg" alt="Wakatime Stats" />
+  </p>
+</details>
