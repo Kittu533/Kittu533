@@ -30,7 +30,7 @@ Software Engineer, UI Engineer
   
   <hr />
   <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittu533" alt="rimzzlabs stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kittu533" alt="kittu533 stats" />
   </p>
 </details>
 
