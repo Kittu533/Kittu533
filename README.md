@@ -17,7 +17,7 @@ Software Engineer, UI Engineer
   
   <hr />
   <p align="left">
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kittu533&show_icons=true&include_all_commits=true&custom_title=rimzzlabs+Stats+So+Far" alt="rizkimcitraa" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kittu533&show_icons=true&include_all_commits=true&custom_title=Kittu533+Stats+So+Far" alt="kittu533" />
   </p>
 
   <p align="left">
